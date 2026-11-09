@@ -11,6 +11,17 @@
 - Course description for "Introduction to Open Science" (Winter 2026–27,
   block seminar, 16–17 & 23–24 October) fed into the course page,
   including the three literature items (2 DOIs verified HTTP 200).
+- Teaching index redesigned (2026-11-09, owner feedback: repeated cards,
+  inconsistent title wrapping): courses grouped by series (7 groups,
+  repeated courses share one heading), single-line rows with a fixed
+  term column, hairline dividers instead of boxed cards, hover highlight.
+- Course descriptions fed for eight more courses (2026-11-09, from the
+  owner's description files): Infrastructure of everyday life (W 2025–26),
+  Platform society (S 2020, incl. Notion syllabus link), Networked culture
+  (W 2023–24 and W 2019–20 with the full 14-session schedule and
+  assessment), Data ethics (S 2023), Anthropology of infrastructure (1)
+  and (2), Being digital (W 2020–21). Dead limn.it URL corrected to
+  limn.press; QA bot-block whitelist extended (OUP, Annual Reviews, SAGE).
 - Structure agreed: static self-contained HTML/CSS, no build step, no JS,
   no external dependencies; shared `style.css`; system fonts; dark mode via
   `prefers-color-scheme`; print styles; semantic HTML.
@@ -29,8 +40,8 @@
 
 ## Next
 
-- Fill in course descriptions for the remaining nine courses
-  (owner will feed the descriptions; template = the Open Science page).
+- Course description for the remaining course: "Platform society and
+  infrastructures of everyday life" (Summer 2024), still a placeholder.
 - Owner decision (2026-11-09): drop "Invited talks" section; keep
   "Conference presentations" on the site.
 - Syllabus link for Summer 2020 ("Platform society and infrastructures of
