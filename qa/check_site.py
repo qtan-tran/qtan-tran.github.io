@@ -30,6 +30,9 @@ BOT_BLOCKED_HOSTS = {
     "taylorfrancis.com",
     "tandfonline.com",
     "medium.com",
+    "academic.oup.com",
+    "annualreviews.org",
+    "journals.sagepub.com",
 }
 
 VOID_ELEMENTS = {
