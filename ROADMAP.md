@@ -40,8 +40,8 @@
 
 ## Next
 
-- Course description for the remaining course: "Platform society and
-  infrastructures of everyday life" (Summer 2024), still a placeholder.
+- All ten course pages now have full descriptions. Remaining content work
+  is on-demand (new repositories/datasets, publication updates).
 - Owner decision (2026-11-09): drop "Invited talks" section; keep
   "Conference presentations" on the site.
 - Syllabus link for Summer 2020 ("Platform society and infrastructures of
@@ -52,6 +52,9 @@
   `0000-0003-3533-5858`, Google Scholar `Lev6PMwAAAAJ`.
 - Author correction in STI 2025 proceedings entry (owner-confirmed):
   "Leigh-Ann, B." → "Butler, L.-A.".
+- Course description for "Platform society and infrastructures of everyday
+  life" (Summer 2024, 56-105, intermediate seminar) fed from the STINE
+  offering details; dead limn.it URL replaced with limn.press.
 - Add new repository/dataset entries to the Repositories section as they
   go public (structure ready; e.g. the ROARA corpus repository
   `oa-os-policy-collections` when published).

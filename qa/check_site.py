@@ -33,6 +33,7 @@ BOT_BLOCKED_HOSTS = {
     "academic.oup.com",
     "annualreviews.org",
     "journals.sagepub.com",
+    "onlinelibrary.wiley.com",
 }
 
 VOID_ELEMENTS = {
